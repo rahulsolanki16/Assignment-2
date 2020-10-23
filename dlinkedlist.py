@@ -38,4 +38,4 @@ dList.addNode(2);
 dList.addNode(3);    
 dList.addNode(4);    
 dList.addNode(5);       
-dList.display()
+dList.display();
